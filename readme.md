@@ -1,6 +1,6 @@
-### PRÁCTICA: CICLO `FOR`
- ### Descripción:  Desarrollar un programa que determine los divisores de un número definido previamente. Este programa utilizará un ciclo `for` para iterar a través de posibles divisores y verificará si cada número es divisor utilizando el operador módulo (`%`).
-
+### PRÁCTICA: CICLO FOR
+ 
+### Descripción:  Desarrollar un programa que determine los divisores de un número definido previamente. Este programa utilizará un ciclo `for` para iterar a través de posibles divisores y verificará si cada número es divisor utilizando el operador módulo (`%`).
 
 
 ### Código 
@@ -41,15 +41,22 @@
 
 
 ### Sumatoria y Operaciones Matemáticas
+
  ###  Descripción El objetivo de este programa es realizar las siguientes operaciones a partir de la sumatoria de un ciclo, desde `0` hasta un número entero definido previamente:
- 1. Calcular la **sumatoria**. 
+
+1. Calcular la **sumatoria**. 
+
 2. Elevar el resultado de la sumatoria al **cuadrado**. 
+
 3. Obtener la **raíz cuadrada** del resultado utilizando `Math.sqrt(numero)`. 
+
 4. Determinar los **divisores** del resultado. 5. Calcular el **factorial** del resultado de la sumatoria.
-### Código 
+ 
 # Programa: Cálculo de Sumatoria y Operaciones Matemáticas
-Este programa realiza la sumatoria desde `0` hasta un número definido y ejecuta varias operaciones matemáticas con el resultado, incluyendo: elevar al cuadrado, calcular la raíz cuadrada, determinar los divisores y hallar el factorial.
-###  Código en Java
+
+### Este programa realiza la sumatoria desde `0` hasta un número definido y ejecuta varias operaciones matemáticas con el resultado, incluyendo: elevar al cuadrado, calcular la raíz cuadrada, determinar los divisores y hallar el factorial.
+
+### codigo  
 
     // Declaración de la clase principal
 
