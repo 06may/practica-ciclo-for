@@ -1,6 +1,8 @@
 ### PRÁCTICA: CICLO FOR
  
-### Descripción: Desarrollar un programa que determine los divisores de un número definido previamente. Este programa utilizará un ciclo for para iterar a través de posibles divisores y verificará si cada número es divisor utilizando el operador módulo (`%`).
+### Descripción:
+
+Desarrollar un programa que determine los divisores de un número definido previamente. Este programa utilizará un ciclo for para iterar a través de posibles divisores y verificará si cada número es divisor utilizando el operador módulo (`%`).
 
 
 ### Código 
@@ -42,7 +44,9 @@
 
 ### Sumatoria y Operaciones Matemáticas
 
-### Descripción: El objetivo de este programa es realizar las siguientes operaciones a partir de la sumatoria de un ciclo, desde `0` hasta un número entero definido previamente:
+### Descripción: 
+
+El objetivo de este programa es realizar las siguientes operaciones a partir de la sumatoria de un ciclo, desde `0` hasta un número entero definido previamente:
 
 1. Calcular la **sumatoria**. 
 
